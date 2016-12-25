@@ -1,0 +1,37 @@
+{
+  "name": "pirate_ship_bed_control",
+  "version": "0.1.0-alpha",
+  "description": "Control for a pirate ship bed made for the children",
+  "main": "pirate_control.js",
+  "dependencies": {
+    "body-parser": "~1.14.1",
+    "express": "~4.13.3",
+    "glob": "^7.1.1",
+    "play-sound": "~1.1.1",
+    "body-parser": "~1.14.1",
+    "rpi-gpio": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BioBoost/pirate_ship_bed_control.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "node",
+    "gpio",
+    "neopixel",
+    "music",
+    "playlist",
+    "pirate"
+  ],
+  "author": "Nico De Witte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BioBoost/node_thumper_control/issues"
+  }
+}
